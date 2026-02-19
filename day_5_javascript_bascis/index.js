@@ -45,5 +45,7 @@ headingElementByQuery.style.color='blue'
 const buttonElement= document.querySelector('.btn');
 buttonElement.addEventListener('click',function() {
     alert('button clicked');
-    console.log('bottom clicked')
+    console.log('bottom clicked');
 }); 
+
+
